@@ -2,7 +2,6 @@
 name:  "Build AMI with Packer"
 
 on:
-  on:
   push:
     branches:
       - main
